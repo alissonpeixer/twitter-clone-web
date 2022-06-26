@@ -8,9 +8,7 @@
 <hr>
 
 <img src="https://media.discordapp.net/attachments/937030859737935892/990663162837729310/unknown.png" alt="Login page" title="Login page">
-
-<!-- <img href="https://media.discordapp.net/attachments/937030859737935892/990663162837729310/unknown.png"/>
-<img href="https://media.discordapp.net/attachments/937030859737935892/990663233125904434/unknown.png"/> -->
+<img src="https://media.discordapp.net/attachments/937030859737935892/990663233125904434/unknown.png" alt="Singup page" title="Singup page">
 
 <hr>
 
