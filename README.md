@@ -6,8 +6,8 @@
 
 - Para assim estar testando meu conheicmentos e aprimorando os mesmo!
 <hr>
-![Alt text](https://media.discordapp.net/attachments/937030859737935892/990663162837729310/unknown.png?raw=true "Title")
 
+<img src="[/path/to/img.jpg](https://media.discordapp.net/attachments/937030859737935892/990663162837729310/unknown.png)" alt="Login page" title="Login page">
 
 <!-- <img href="https://media.discordapp.net/attachments/937030859737935892/990663162837729310/unknown.png"/>
 <img href="https://media.discordapp.net/attachments/937030859737935892/990663233125904434/unknown.png"/> -->
